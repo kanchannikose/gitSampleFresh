@@ -12,6 +12,10 @@ public class DemoFresh
 		
 		System.out.println("Hello dear");
 		
+		System.out.println("Hi this is my 2nd commit");
+		
+		System.out.println("Hi this Branch1");
+		
 	}
 
 }
