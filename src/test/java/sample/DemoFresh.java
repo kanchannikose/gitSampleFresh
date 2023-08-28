@@ -10,6 +10,8 @@ public class DemoFresh
 	{
 		System.out.println("Hi this is my 1st commit");
 		
+		System.out.println("Hii");
+		
 	}
 
 }
